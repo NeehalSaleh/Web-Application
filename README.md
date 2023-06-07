@@ -15,6 +15,7 @@ main page(Renad): contains the main website and an auction for three NFTs.
 
 
 discover page: where you can learn about NFTs and get more knowledge about Ethereum etc...
+
 ![d1](https://github.com/NeehalSaleh/Web-Application/assets/95432629/db7f4d29-68a1-4976-bc31-5392e3c3f275)
 ![d2](https://github.com/NeehalSaleh/Web-Application/assets/95432629/ee436037-099c-43a5-8d22-b9ce73ce2f1b)
 ![d3](https://github.com/NeehalSaleh/Web-Application/assets/95432629/764e35e9-9d7e-484a-a145-140bc65312cc)

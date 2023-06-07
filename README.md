@@ -3,24 +3,34 @@ Our website offers a platform for the dissemination of the latest NFT products f
 
 The HTML class:
 main page(Renad): contains the main website and an auction for three NFTs.
-![renad1](https://github.com/NeehalSaleh/Web-Application/assets/95432629/6cf6c7e1-0ab1-44a7-b26e-943a86ad3870)
-![renad2](https://github.com/NeehalSaleh/Web-Application/assets/95432629/5475975d-c863-46f7-91eb-42f1f2df7dd2)
-![renad3](https://github.com/NeehalSaleh/Web-Application/assets/95432629/c1a7cb1d-12a7-46d4-ac00-ce0155158510)![renad4](https://github.com/NeehalSaleh/Web-Application/assets/95432629/76013cd8-683f-42d5-9bd0-3def1a165e01)
-
-![renad5](https://github.com/NeehalSaleh/Web-Application/assets/95432629/2ecf1fc9-bd12-462a-a2d4-319e6bccaf24)![renad6](https://github.com/NeehalSaleh/Web-Application/assets/95432629/cbc93d84-8fd0-4b9e-9675-6af64bcc8fde)
+![r1](https://github.com/NeehalSaleh/Web-Application/assets/95432629/304687b1-b571-4d6e-bd53-725cd55c102d)
+![r2](https://github.com/NeehalSaleh/Web-Application/assets/95432629/e776176f-991c-42db-9a36-1d81efce1542)
+![r3](https://github.com/NeehalSaleh/Web-Application/assets/95432629/d797a9ec-602a-404e-b400-2a5bceb31803)
+![r4](https://github.com/NeehalSaleh/Web-Application/assets/95432629/76a6a9ff-6ea6-49ee-85c0-4494ea5164a7)
+![r5](https://github.com/NeehalSaleh/Web-Application/assets/95432629/bfa23fb5-485c-44ab-9aa4-5572aff873a0)
+![r6](https://github.com/NeehalSaleh/Web-Application/assets/95432629/82251971-5639-4daa-b672-c5ed1fb9d8b3)
+![r7](https://github.com/NeehalSaleh/Web-Application/assets/95432629/788a6aa1-4b8a-4102-b1e1-45c26d143833)
+![r8](https://github.com/NeehalSaleh/Web-Application/assets/95432629/f91c8bc1-cbb0-433b-9603-383923b325fc)
+![r9](https://github.com/NeehalSaleh/Web-Application/assets/95432629/c543f2fc-45ae-4a49-90f4-7bb3bf2821b9)
 
 
 discover page: where you can learn about NFTs and get more knowledge about Ethereum etc...
-![D1](https://github.com/NeehalSaleh/Web-Application/assets/95432629/bd033521-5f54-4339-8d22-c98caedf071f)
-![D4](https://github.com/NeehalSaleh/Web-Application/assets/95432629/5d3a2e06-597f-48a7-9000-dea75bc5e91d)
-![D5](https://github.com/NeehalSaleh/Web-Application/assets/95432629/4601dbde-68dd-45be-8369-281f044bd061)
-![D2](https://github.com/NeehalSaleh/Web-Application/assets/95432629/bb14a9c9-1fbc-48e6-b896-24dbfb55fca6)
-![D3](https://github.com/NeehalSaleh/Web-Application/assets/95432629/51bd5aca-15ad-48c1-a431-02df9ea4d6e1)
+![d1](https://github.com/NeehalSaleh/Web-Application/assets/95432629/db7f4d29-68a1-4976-bc31-5392e3c3f275)
+![d2](https://github.com/NeehalSaleh/Web-Application/assets/95432629/ee436037-099c-43a5-8d22-b9ce73ce2f1b)
+![d3](https://github.com/NeehalSaleh/Web-Application/assets/95432629/764e35e9-9d7e-484a-a145-140bc65312cc)
+![d4](https://github.com/NeehalSaleh/Web-Application/assets/95432629/51440f14-d4c5-4473-b35e-c1556d636c7c)
+![d5](https://github.com/NeehalSaleh/Web-Application/assets/95432629/e8c697a7-9549-4cd7-b5d0-f2de9b871690)
 
 Market: where you can find the latest NFTs.
-![M1](https://github.com/NeehalSaleh/Web-Application/assets/95432629/caf96afe-e4ed-4b81-964d-518d24f4474b)
-![M2](https://github.com/NeehalSaleh/Web-Application/assets/95432629/669abaf9-c00b-4973-95b9-8d2b51994a07)
-![M3](https://github.com/NeehalSaleh/Web-Application/assets/95432629/26d86061-9fb0-4c88-b3fc-ebc87b3f4166)
+![m1](https://github.com/NeehalSaleh/Web-Application/assets/95432629/06890681-15ef-4e52-8f3c-f7d4e994931f)
+
+![m2](https://github.com/NeehalSaleh/Web-Application/assets/95432629/436fb12c-3cc5-44be-85ae-5057965e4791)
+![m3](https://github.com/NeehalSaleh/Web-Application/assets/95432629/42765f58-8bf7-4559-a5ea-7951622ad52e)
+![m4](https://github.com/NeehalSaleh/Web-Application/assets/95432629/9ecdf560-7ddb-4d1b-980e-3c6a3101eeaa)
+![m5](https://github.com/NeehalSaleh/Web-Application/assets/95432629/9b19aaa7-04d0-4894-ae18-8ff7435ea51d)
+![m6](https://github.com/NeehalSaleh/Web-Application/assets/95432629/c8dba735-f551-4d32-9185-195225b6aa9f)
+![m7](https://github.com/NeehalSaleh/Web-Application/assets/95432629/a4442cbe-1f25-44d8-84c1-84c3b4996960)
+
 
 new: class to register the user.
 
